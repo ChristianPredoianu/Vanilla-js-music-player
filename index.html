@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <script
+      src="https://kit.fontawesome.com/541f85d259.js"
+      crossorigin="anonymous"
+    ></script>
+    <title>Music Player</title>
+  </head>
+  <body>
+    <div class="player-container">
+      <div class="range-container">
+        <i class="fas fa-volume-mute mute " id="mute"></i>
+        <input type="range" min="0" max="100" value="100" id="volume-range" />
+        <i class="fas fa-volume-up volume-up" id="volume-up"></i>
+      </div>
+      <div class="image-container">
+        <img src="images/brazilsamba.jpg" alt="music cover" id="image" />
+      </div>
+      <audio src="music/brazilsamba.mp3" id="audio"></audio>
+
+      <p class="music-title" id="music-title">Bullet for my valentine</p>
+      <div class="cta-container">
+        <button class="replay" id="replay">
+          <i class="fas fa-redo"></i>
+        </button>
+        <button class="previous-btn" id="previous-track">
+          <i class="fas fa-step-backward "></i>
+        </button>
+        <button class="play-btn" id="play">
+          <i class="fas fa-play"></i>
+        </button>
+        <button class="next-track-btn" id="next-track">
+          <i class="fas fa-step-forward"></i>
+        </button>
+        <button class="random" id="shuffle">
+          <i class="fas fa-random"></i>
+        </button>
+      </div>
+      <div class="progress-container" id="progress-container">
+        <div class="progress" id="progress"></div>
+      </div>
+
+      <p class="time-progress" id="time-progress"></p>
+      <p class="total-track-time" id="total-track-time"></p>
+    </div>
+    <script src="app.js"></script>
+  </body>
+</html>
