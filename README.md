@@ -53,7 +53,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-My front end portfolio.
+A vanilla js music player
 
 ### Built With
 
