@@ -2,21 +2,21 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/ChristianPredoianu/Vanilla-js-m">
+  <a href="https://github.com/ChristianPredoianu/Vanilla-js-music-player">
     <img src="images/creativeminds.jpg" alt="Logo" width="200" height="180">
   </a>
 
-  <h3 align="center">Portfolio Christian Predoianu</h3>
+  <h3 align="center">Vanilla js Music Player</h3>
 
   <p align="center">
-   My portfolio
+   Vanilla js Music Player
     <br />
-    <a href="https://github.com/ChristianPredoianu/portfolio-v2"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/ChristianPredoianu/Vanilla-js-music-player"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://christianpredoianu.com/">View Demo</a>
+    <a href="https://jsmusicplayer.netlify.app/">View Demo</a>
     ·
-    <a href="https://github.com/ChristianPredoianu/portfolio-v2/issues">Report Bug</a>
+    <a href="https://github.com/ChristianPredoianu/Vanilla-js-music-player/issues">Report Bug</a>
     · 
    
   </p>
@@ -59,12 +59,8 @@ My front end portfolio.
 
 * [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 * [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [Vanilla Js](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* [Sass](https://sass-lang.com/)
-* [Parcel](https://parceljs.org/)
-* [Gsap](https://greensock.com/)
-* [BEM](http://getbem.com/)
-* [Local Storage + Session Storage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 
 
 
@@ -84,21 +80,13 @@ To get a local copy up and running follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/ChristianPredoianu/portfolio-v2.git
+   git clone https://github.com/ChristianPredoianu/Vanilla-js-music-player.git
    ```
 2. Install NPM packages
    ```sh
    npm install
    ``` 
-3. Serve with hot reload at localhost:1234
-   ```sh
-    npm run dev
-   ``` 
-5. Build for production 
-   ```sh
-    npm run build
-   
-   ```
+
 
    
 
@@ -112,9 +100,7 @@ To get a local copy up and running follow these simple steps.
 
 
 
-1. Choose prefered color mode. Light mode or dark mode.
-2. Navigate.
-
+1.Play some music.
  
 
 
@@ -129,16 +115,12 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Christian Predoianu - [@linkedin](https://se.linkedin.com/in/christian-predoianu-369218157) - christianpredoianu@yahoo.com
 
-Project Link: [https://github.com/ChristianPredoianu/portfolio-v2](https://github.com/ChristianPredoianu/portfolio-v2)
+Project Link: [https://github.com/ChristianPredoianu/Vanilla-js-music-player](https://github.com/ChristianPredoianu/Vanilla-js-music-player)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [Google Fonts](https://fonts.google.com/)
-* [Swiper.js](https://swiperjs.com/)
-* [Font-Awesome](https://fontawesome.com/)
-* [Typed.js](https://github.com/mattboldt/typed.js/)
 
 
 
