@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/ChristianPredoianu/Vanilla-js-m">
-    <img src="images/creativeminds.jpg" alt="Logo" width="100" height="80">
+    <img src="images/creativeminds.jpg" alt="Logo" width="200" height="180">
   </a>
 
   <h3 align="center">Portfolio Christian Predoianu</h3>
