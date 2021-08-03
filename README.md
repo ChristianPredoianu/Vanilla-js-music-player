@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/ChristianPredoianu/Vanilla-js-music-player">
-    <img src="images/creativeminds.jpg" alt="Logo" width="200" height="180">
+    <img src="images/creativeminds.jpg" alt="Logo" width="200" height="200">
   </a>
 
   <h3 align="center">Vanilla js Music Player</h3>
