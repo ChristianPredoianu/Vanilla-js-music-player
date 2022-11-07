@@ -1,3 +1,4 @@
+# Vanilla js Music Player
 
 <!-- PROJECT LOGO -->
 <br />
@@ -9,16 +10,11 @@
   <h3 align="center">Vanilla js Music Player</h3>
 
   <p align="center">
-   Vanilla js Music Player
-    <br />
     <a href="https://github.com/ChristianPredoianu/Vanilla-js-music-player"><strong>Explore the docs »</strong></a>
-    <br />
     <br />
     <a href="https://jsmusicplayer.netlify.app/">View Demo</a>
     ·
     <a href="https://github.com/ChristianPredoianu/Vanilla-js-music-player/issues">Report Bug</a>
-    · 
-   
   </p>
 </p>
 
@@ -59,9 +55,7 @@ A vanilla js music player
 
 * [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 * [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
-* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-
+* [Vanilla js](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
 <!-- GETTING STARTED -->
@@ -82,27 +76,14 @@ To get a local copy up and running follow these simple steps.
    ```sh
    git clone https://github.com/ChristianPredoianu/Vanilla-js-music-player.git
    ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ``` 
 
 
-   
-
-   
-   
-   
-   
-   
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-
-
-1.Play some music.
+The music players functionality is:
+Play music, pause music, next track, previous track, shuffle track, repeat track. 
  
-
 
 <!-- LICENSE -->
 ## License
@@ -123,20 +104,3 @@ Project Link: [https://github.com/ChristianPredoianu/Vanilla-js-music-player](ht
 ## Acknowledgements
 
 
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/github_username 
