@@ -81,7 +81,7 @@ To get a local copy up and running follow these simple steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-The music players functionality is:
+The music players functionality are: 
 Play music, pause music, next track, previous track, shuffle track, repeat track. 
  
 
